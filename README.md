@@ -2,5 +2,5 @@
 
 <h2>Computer Engineering and Programming Projects:</h2>
 
-- <b>Python XXX Project</b>
-  - [Praciting DS & Algos in Python](LAB URL)
+- <b>Netbeans Projects</b>
+  - [2D Drawing Application](https://github.com/rshetty26/2DDrawingApplication)
