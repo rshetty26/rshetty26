@@ -11,4 +11,4 @@
   - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
   - CMPSC132: Data Structures Labs
-    - [Lab 0](https://github.com/rshetty26/CourseSchedulerApplication)
+    - [Lab 0](https://github.com/rshetty26/cmpsc132lab0)
