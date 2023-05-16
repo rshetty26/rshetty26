@@ -3,7 +3,7 @@
 <h2>Computer Engineering and Programming Projects:</h2>
 
 - <b>Verilog Projects</b>
-  - [Single Cycle CPU Project](https://github.com/rshetty26/CourseSchedulerApplication)
+  - [Single Cycle CPU Project](https://github.com/rshetty26/singlecycleCPU)
 - <b>Java Projects</b>
   - [Course Scheduler Application](https://github.com/rshetty26/CourseSchedulerApplication)
   - [2D Drawing Application](https://github.com/rshetty26/2DDrawingApplication)
