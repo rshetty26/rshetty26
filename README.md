@@ -10,4 +10,5 @@
   - [Pizza Serving Calculator](https://github.com/rshetty26/PizzaServingsCalculator)
   - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
-  - [Python Test](https://github.com/rshetty26/CourseSchedulerApplication)
+  - CMPSC132: Data Structures Labs
+    - [Lab 0](https://github.com/rshetty26/CourseSchedulerApplication)
