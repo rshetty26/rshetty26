@@ -4,3 +4,4 @@
 
 - <b>Netbeans Projects</b>
   - [2D Drawing Application](https://github.com/rshetty26/2DDrawingApplication)
+  - [Course Scheduler Application](https://github.com/rshetty26/2DDrawingApplication)
