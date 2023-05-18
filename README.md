@@ -11,6 +11,7 @@
   - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
   - [Class Grade Manager](https://github.com/rshetty26/class-grade-manager)
+  - [Chess Program](https://github.com/rshetty26/chess)
   - [Read/write to files and Dictionary funtions](https://github.com/rshetty26/dictionary-functions/)
   - Labs from CMPSC132: Data Structures
     - [Lab 0](https://github.com/rshetty26/cmpsc132lab0): List functions
