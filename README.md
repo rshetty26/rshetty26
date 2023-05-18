@@ -10,7 +10,7 @@
   - [Pizza Serving Calculator](https://github.com/rshetty26/PizzaServingsCalculator)
   - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
-  - CMPSC132: Data Structures Labs
+  - Labs from CMPSC132: Data Structures
     - [Lab 0](https://github.com/rshetty26/cmpsc132lab0): List functions
     - [Lab 1](https://github.com/rshetty26/cmpsc132lab1): Frequency, invert, and update employee functions
     - [Lab 2](https://github.com/rshetty26/cmpsc132lab2): Vending machine, vendor and pantry classes
