@@ -10,7 +10,7 @@
   - [Pizza Serving Calculator](https://github.com/rshetty26/PizzaServingsCalculator)
   - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
--     - [Reading and Writing to files and Dictionary funtions](https://github.com/rshetty26/dictionary-functions/)
+- [Reading and Writing to files and Dictionary funtions](https://github.com/rshetty26/dictionary-functions/)
   - Labs from CMPSC132: Data Structures
     - [Lab 0](https://github.com/rshetty26/cmpsc132lab0): List functions
     - [Lab 1](https://github.com/rshetty26/cmpsc132lab1): Frequency, invert, and update employee functions
