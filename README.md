@@ -17,6 +17,5 @@
     - [Lab 3](https://github.com/rshetty26/cmpsc132lab3)
     - [Lab 4](https://github.com/rshetty26/cmpsc132lab4)
     - [Lab 5](https://github.com/rshetty26/cmpsc132lab5)
-    - [Lab 6](https://github.com/rshetty26/cmpsc132lab6)
     - [Lab 7](https://github.com/rshetty26/cmpsc132lab7)
     - [Lab 8](https://github.com/rshetty26/cmpsc132lab8)
