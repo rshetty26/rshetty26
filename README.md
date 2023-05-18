@@ -11,11 +11,11 @@
   - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
   - CMPSC132: Data Structures Labs
-    - [Lab 0](https://github.com/rshetty26/cmpsc132lab0)
+    - [Lab 0](https://github.com/rshetty26/cmpsc132lab0): 
     - [Lab 1](https://github.com/rshetty26/cmpsc132lab1)
     - [Lab 2](https://github.com/rshetty26/cmpsc132lab2)
     - [Lab 3](https://github.com/rshetty26/cmpsc132lab3)
     - [Lab 4](https://github.com/rshetty26/cmpsc132lab4)
     - [Lab 5](https://github.com/rshetty26/cmpsc132lab5)
     - [Lab 7](https://github.com/rshetty26/cmpsc132lab7)
-    - [Lab 8](https://github.com/rshetty26/cmpsc132lab8)
+    - [Lab 8](https://github.com/rshetty26/cmpsc132lab8): Sorting algorithms
