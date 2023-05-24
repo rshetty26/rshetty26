@@ -1,5 +1,8 @@
 <h1>Hi, I'm Rithvik! </h1>
 
+<b> Check out my LinkedIn: <b>
+  - [Connect with me on LinkedIn](https://www.linkedin.com/in/rithvik-shetty-5012b5208/)
+
 <h2>Computer Engineering and Programming Projects:</h2>
 
 - <b>Verilog Projects</b>
