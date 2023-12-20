@@ -7,7 +7,7 @@
 
 - <b>C Projects</b>
   - [mdadm Linear Device with Networking](https://github.com/rshetty26/mdadm-Linear-Device-w-Networking)
-  - [CMPSC311 Assignment 1b]()
+  - [CMPSC311 Assignment 1b](https://github.com/rshetty26/cmpsc311-assignment-1b)
 - <b>Verilog Projects</b>
   - [Single Cycle CPU Project](https://github.com/rshetty26/singlecycleCPU)
 - <b>Java Projects</b>
