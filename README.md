@@ -5,18 +5,18 @@
 
 <h2>Computer Engineering and Programming Projects:</h2>
 
-- <b>C/C++/C# Projects</b>
+- <b>Computer Architecture Projects</b>
+  - [Single Cycle CPU Project (Verilog)](https://github.com/rshetty26/singlecycleCPU)
+- <b>Systems Programming Projects</b>
   - [MDADM Linear Device with Networking](https://github.com/rshetty26/mdadm-Linear-Device-w-Networking)
+  - [Basic Programming Language Parser/Interpreter Design](https://github.com/rshetty26/parser-interpreter-design)
   - [CMPSC311 Assignment 1b](https://github.com/rshetty26/cmpsc311-assignment-1b)
-- <b>Verilog Projects</b>
-  - [Single Cycle CPU Project](https://github.com/rshetty26/singlecycleCPU)
 - <b>Java Projects</b>
   - [Course Scheduler Application](https://github.com/rshetty26/CourseSchedulerApplication)
   - [2D Drawing Application](https://github.com/rshetty26/2DDrawingApplication)
   - [Pizza Serving Calculator](https://github.com/rshetty26/PizzaServingsCalculator)
   - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
-  - [Basic Programming Language Parser/Interpreter Design](https://github.com/rshetty26/parser-interpreter-design)
   - [Class Grade Manager](https://github.com/rshetty26/class-grade-manager)
   - [Chess Program](https://github.com/rshetty26/chess)
   - [Read/write to files and Dictionary funtions](https://github.com/rshetty26/dictionary-functions/)
