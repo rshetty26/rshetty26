@@ -16,7 +16,7 @@
   - [Pizza Serving Calculator](https://github.com/rshetty26/PizzaServingsCalculator)
   - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
-  - []()
+  - [Basic Programming Language Parser/Interpreter Design](https://github.com/rshetty26/parser-interpreter-design)
   - [Class Grade Manager](https://github.com/rshetty26/class-grade-manager)
   - [Chess Program](https://github.com/rshetty26/chess)
   - [Read/write to files and Dictionary funtions](https://github.com/rshetty26/dictionary-functions/)
