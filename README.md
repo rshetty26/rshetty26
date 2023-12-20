@@ -12,15 +12,7 @@
   - [MDADM Linear Device with Networking](https://github.com/rshetty26/mdadm-Linear-Device-w-Networking)
   - [Basic Programming Language Parser/Interpreter Design](https://github.com/rshetty26/parser-interpreter-design)
   - [CMPSC311 Assignment 1b](https://github.com/rshetty26/cmpsc311-assignment-1b)
-- <b>Java Projects</b>
-  - [Course Scheduler Application](https://github.com/rshetty26/CourseSchedulerApplication)
-  - [2D Drawing Application](https://github.com/rshetty26/2DDrawingApplication)
-  - [Pizza Serving Calculator](https://github.com/rshetty26/PizzaServingsCalculator)
-  - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 - <b>Python Projects</b>
-  - [Class Grade Manager](https://github.com/rshetty26/class-grade-manager)
-  - [Chess Program](https://github.com/rshetty26/chess)
-  - [Read/write to files and Dictionary funtions](https://github.com/rshetty26/dictionary-functions/)
   - Labs from CMPSC132: Data Structures
     - [Lab 0](https://github.com/rshetty26/cmpsc132lab0): List functions
     - [Lab 1](https://github.com/rshetty26/cmpsc132lab1): Frequency, invert, and update employee functions
@@ -30,3 +22,11 @@
     - [Lab 5](https://github.com/rshetty26/cmpsc132lab5): Binary search trees
     - [Lab 7](https://github.com/rshetty26/cmpsc132lab7): Max binary heaps
     - [Lab 8](https://github.com/rshetty26/cmpsc132lab8): Sorting algorithms
+  - [Class Grade Manager](https://github.com/rshetty26/class-grade-manager)
+  - [Chess Program](https://github.com/rshetty26/chess)
+  - [Read/write to files and Dictionary funtions](https://github.com/rshetty26/dictionary-functions/)
+- <b>Java Projects</b>
+  - [Course Scheduler Application](https://github.com/rshetty26/CourseSchedulerApplication)
+  - [2D Drawing Application](https://github.com/rshetty26/2DDrawingApplication)
+  - [Pizza Serving Calculator](https://github.com/rshetty26/PizzaServingsCalculator)
+  - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
