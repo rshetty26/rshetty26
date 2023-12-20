@@ -5,6 +5,8 @@
 
 <h2>Computer Engineering and Programming Projects:</h2>
 
+- <b>C Projects</b>
+  - [mdadm Linear Device with Networking](https://github.com/rshetty26/mdadm-Linear-Device-w-Networking)
 - <b>Verilog Projects</b>
   - [Single Cycle CPU Project](https://github.com/rshetty26/singlecycleCPU)
 - <b>Java Projects</b>
