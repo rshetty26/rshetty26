@@ -6,6 +6,7 @@
 <h2>Computer Engineering and Programming Projects:</h2>
 
 - <b>Computer Architecture Projects</b>
+  - [Final Project: Microarchitectural Design-space Exploration Using SimpleScalar](https://github.com/rshetty26/Final-Project-Microarchitectural-Design-space-Exploration-Using-SimpleScalar)
   - [Single Cycle CPU Project (Verilog)](https://github.com/rshetty26/singlecycleCPU)
 - <b>Systems Programming Projects</b>
   - [MDADM Linear Device with Networking](https://github.com/rshetty26/mdadm-Linear-Device-w-Networking)
