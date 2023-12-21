@@ -8,8 +8,9 @@
 - <b>Computer Architecture Projects</b>
   - [Final Project: Microarchitectural Design-space Exploration Using SimpleScalar](https://github.com/rshetty26/Final-Project-Microarchitectural-Design-space-Exploration-Using-SimpleScalar)
   - [Single Cycle CPU Project (Verilog)](https://github.com/rshetty26/singlecycleCPU)
-  - [Simulation-based Scalar In-order Pipeline Scheduling](https://github.com/rshetty26/Simulation-based-Scalar-In-order-Pipeline-Scheduling/)
+  - [Cache Simulation](https://github.com/rshetty26/Cache-Simulation)
   - [Simulation-based Dynamic (trace) Scheduling](https://github.com/rshetty26/Simulation-based-Dynamic-trace-Scheduling)
+  - [Simulation-based Scalar In-order Pipeline Scheduling](https://github.com/rshetty26/Simulation-based-Scalar-In-order-Pipeline-Scheduling/)
 - <b>Systems Programming Projects</b>
   - [MDADM Linear Device with Networking](https://github.com/rshetty26/mdadm-Linear-Device-w-Networking)
   - [Basic Programming Language Parser/Interpreter Design](https://github.com/rshetty26/parser-interpreter-design)
