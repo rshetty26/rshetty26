@@ -5,8 +5,6 @@
 
 <h2>Computer Engineering and Programming Projects:</h2>
 
-- <b>Electrical Engineering Projects</b>
-  - [Baxandall Tone Controll Circuit](https://docs.google.com/document/d/1Y9-3It7IbLsLMJ8XyDCSvD7-HmIplPw_ENFs6FmN-aM/edit)
 - <b>Computer Architecture Projects</b>
   - [Final Project: Microarchitectural Design-space Exploration Using SimpleScalar](https://github.com/rshetty26/Final-Project-Microarchitectural-Design-space-Exploration-Using-SimpleScalar)
   - [Single Cycle CPU Project (Verilog)](https://github.com/rshetty26/singlecycleCPU)
@@ -17,6 +15,8 @@
   - [MDADM Linear Device with Networking](https://github.com/rshetty26/mdadm-Linear-Device-w-Networking)
   - [Basic Programming Language Parser/Interpreter Design](https://github.com/rshetty26/parser-interpreter-design)
   - [CMPSC311 Assignment 1b](https://github.com/rshetty26/cmpsc311-assignment-1b)
+- <b>Electrical Engineering Projects</b>
+  - [Baxandall Tone Controll Circuit](https://docs.google.com/document/d/1Y9-3It7IbLsLMJ8XyDCSvD7-HmIplPw_ENFs6FmN-aM/edit)
 - <b>Python Projects</b>
   - Labs from CMPSC132: Data Structures
     - [Lab 0](https://github.com/rshetty26/cmpsc132lab0): List functions
