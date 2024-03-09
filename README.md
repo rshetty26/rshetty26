@@ -5,6 +5,8 @@
 
 <h2>Computer Engineering and Programming Projects:</h2>
 
+- <b>Electrical Engineering Projects</b>
+  - [Baxandall Tone Controll Circuit](https://docs.google.com/document/d/1Y9-3It7IbLsLMJ8XyDCSvD7-HmIplPw_ENFs6FmN-aM/edit)
 - <b>Computer Architecture Projects</b>
   - [Final Project: Microarchitectural Design-space Exploration Using SimpleScalar](https://github.com/rshetty26/Final-Project-Microarchitectural-Design-space-Exploration-Using-SimpleScalar)
   - [Single Cycle CPU Project (Verilog)](https://github.com/rshetty26/singlecycleCPU)
