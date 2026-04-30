@@ -70,19 +70,3 @@
 - [Pizza Serving Calculator](https://github.com/rshetty26/PizzaServingsCalculator)
 - [Loan Account Application](https://github.com/rshetty26/LoanAccount)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rshetty26&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshetty26&layout=compact" height="160"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rshetty26&theme=github-light" />
-</p>
