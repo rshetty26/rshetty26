@@ -4,13 +4,6 @@
   <a href="https://github.com/rshetty26">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Systems+and+Architecture+Focused;Building+Low-Level+and+Software+Projects" />
   </a>
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
