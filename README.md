@@ -19,6 +19,11 @@
 
 ## Computer Engineering and Programming Projects
 
+### SCADA Projects
+- [SCADA Reliability Monitoring System](https://github.com/rshetty26/SCADA-Reliability-Monitoring-System)
+
+---
+
 ### Computer Architecture Projects
 - [Final Project: Microarchitectural Design-space Exploration Using SimpleScalar](https://github.com/rshetty26/Final-Project-Microarchitectural-Design-space-Exploration-Using-SimpleScalar)
 - [Single Cycle CPU Project (Verilog)](https://github.com/rshetty26/singlecycleCPU)
