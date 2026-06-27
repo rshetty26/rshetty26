@@ -19,6 +19,9 @@
 
 ## Computer Engineering and Programming Projects
 
+### NLP and Text Embedding
+- [Open-Source Academic Semantic Search Platform](https://github.com/rshetty26/noepsis-semantic-search)
+
 ### SCADA Projects
 - [SCADA Reliability Monitoring System](https://github.com/rshetty26/SCADA-Reliability-Monitoring-System)
 
